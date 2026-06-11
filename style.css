@@ -97,12 +97,12 @@ body{
    
 
 }
-.h2{
+.h1{
     color: var(--clr-white);
     font-weight: var(--fw-semi-bold);
     transition: color 0.3s ease;
 }
-.h2:hover,#avatar-name:hover{
+.h1:hover,#avatar-name:hover{
     color: var(--clr-primary-cyan);
     cursor: pointer;
 }
